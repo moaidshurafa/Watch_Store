@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EOUfPjOku3ObESEi0yw6xr5SZWW8uSzGOoO1BYRdsLQ=",
+  "Source": "WatchStore.API",
+  "BasePath": "_content/WatchStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
